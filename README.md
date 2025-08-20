@@ -1,5 +1,5 @@
 # IMPC_SQL_Database
-#The International Mouse Phenotyping Consortium (IMPC) Phenotypic Data Cleaning, Annotation, and Visualization
+The International Mouse Phenotyping Consortium (IMPC) Phenotypic Data Cleaning, Annotation, and Visualization
 
 This project showcases a complete data management and visualization workflow using IMPC mouse phenotype data. It includes data cleaning in R, MySQL database design and annotation, SQL querying, and interactive visualization via an R Shiny dashboard.
 
@@ -33,17 +33,17 @@ The goal of this project is to transform and analyze phenotypic data from the In
 
 ## Workflow Components
 
-### 1. Data Cleaning (R)
-### 2. SQL Database Annotation
-### 3. Genotype Querying (SQL)
-### 4. R Shiny Dashboard
+- 1. Data Cleaning (R)
+- 2. SQL Database Annotation
+- 3. Genotype Querying (SQL)
+- 4. R Shiny Dashboard
 ---
 
 ## Dashboard Visualizations
 
 - Bar plots for significant phenotypes per gene and vice versa
 - PCA-based clustering of genes linked to human diseases
-- Interactive tooltips using `plotly` for detailed exploration
+- Interactive tooltips for detailed exploration
 
 ---
 
